@@ -7,7 +7,7 @@ A multi-page responsive blog site created using HTML5, CSS3, and JavaScript.
 - JavaScript form validation
 - Semantic HTML structure
 - Beautiful color scheme inspired by Navy Blue, Coffee Pot, Sand Dollar, and Teal Green
-- Deployed using GitHub Pages / Netlify / Vercel
+- Deployed using GitHub Pages.
 
 ## Pages
 - Home
@@ -15,6 +15,6 @@ A multi-page responsive blog site created using HTML5, CSS3, and JavaScript.
 - Contact
 
 ## Author
-Freelance virtual assistant, transcriptionist, and aspiring software engineer from Ngong, Kenya.
+Freelance virtual assistant, transcriptionist, and aspiring software engineer from Machakos, Kenya.
 
 ---
